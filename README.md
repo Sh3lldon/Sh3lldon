@@ -1,4 +1,8 @@
 ### Hi there 👋
+### My name is Magzhan (Shelldon) Tursynkul, I am Windows Kernel/Driver/User Mode Exploit Developer, Reverse Engineer and Red Teamer.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 <!--
 **Sh3lldon/Sh3lldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
