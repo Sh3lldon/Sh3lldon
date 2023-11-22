@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Magzhan (Shelldon) Tursynkul, I am Windows Kernel/Driver/User Mode Exploit Developer, Reverse Engineer and Red Teamer.
-* ## OSED Certified
-* ## OSEP in process
+* #### OSED Certified
+* #### OSEP in process
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sh3lldon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
