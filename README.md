@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### My name is Magzhan (Shelldon) Tursynkul, I am Windows Kernel/Driver/User Mode Exploit Developer, Reverse Engineer and Red Teamer.
 * #### OSED Certified | OSEP in proccess
+* #### HTB Prolabs: Dante & Zephyr & Offshore
 
 <!--
 **Sh3lldon/Sh3lldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
