@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Magzhan (Shelldon) Tursynkul, I am Windows Exploit Developer, Reverse Engineer and Red Teamer.
-* #### OSED & OSEP & CRTO & CRTE & CRTM Certified
+* #### OSED | OSEP | CRTO | CRTE | CRTM Certified
 * #### HTB Prolabs: Dante & Zephyr & Offshore
 
 <!--
