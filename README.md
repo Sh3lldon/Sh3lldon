@@ -3,6 +3,18 @@
 * #### OSED | OSEP | CRTO | CRTE | CRTM Certified
 * #### HTB Prolabs: Dante & Zephyr & Offshore
 
+
+### STATS
+![Shelldon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sh3lldon&show_icons=true&theme=radical) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh3lldon&layout=compact&theme=radical)
+
+<table>
+  <tr>
+    <td>StatTrak</td>
+    <td><a href="https://github.com/Sh3lldon"><img src="https://profile-counter.glitch.me/Sh3lldon/count.svg" alt="Counter" /></a></td>
+  </tr>
+</table>
 <!--
 **Sh3lldon/Sh3lldon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
